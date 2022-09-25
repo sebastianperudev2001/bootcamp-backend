@@ -1,0 +1,15 @@
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\bin\Debug\net6.0\Bootcamp.Repositorio.deps.json
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\bin\Debug\net6.0\Bootcamp.Repositorio.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\bin\Debug\net6.0\Bootcamp.Repositorio.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\bin\Debug\net6.0\Bootcamp.Modelo.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\bin\Debug\net6.0\Bootcamp.Modelo.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\Bootcamp.Repositorio.csproj.AssemblyReference.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\Bootcamp.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\Bootcamp.Repositorio.AssemblyInfoInputs.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\Bootcamp.Repositorio.AssemblyInfo.cs
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\Bootcamp.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\Bootcamp.Repositorio.csproj.CopyComplete
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\Bootcamp.Repositorio.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\refint\Bootcamp.Repositorio.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\Bootcamp.Repositorio.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\ref\Bootcamp.Repositorio.dll

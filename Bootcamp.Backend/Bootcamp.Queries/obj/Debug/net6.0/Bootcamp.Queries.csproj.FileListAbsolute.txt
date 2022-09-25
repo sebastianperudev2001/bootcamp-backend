@@ -1,0 +1,15 @@
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.csproj.AssemblyReference.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.AssemblyInfoInputs.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.AssemblyInfo.cs
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.Queries.deps.json
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.Queries.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.Queries.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.ViewModel.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.ViewModel.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.csproj.CopyComplete
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\refint\Bootcamp.Queries.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Queries\obj\Debug\net6.0\ref\Bootcamp.Queries.dll

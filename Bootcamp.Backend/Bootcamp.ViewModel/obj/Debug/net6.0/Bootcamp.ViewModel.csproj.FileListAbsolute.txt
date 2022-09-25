@@ -1,0 +1,12 @@
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\bin\Debug\net6.0\Bootcamp.ViewModel.deps.json
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\bin\Debug\net6.0\Bootcamp.ViewModel.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\bin\Debug\net6.0\Bootcamp.ViewModel.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.csproj.AssemblyReference.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.AssemblyInfoInputs.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.AssemblyInfo.cs
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\obj\Debug\net6.0\refint\Bootcamp.ViewModel.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.ViewModel\obj\Debug\net6.0\ref\Bootcamp.ViewModel.dll
