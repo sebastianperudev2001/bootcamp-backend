@@ -1,0 +1,87 @@
+26/09/2022 09:41:42	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'BootcampDB' del equipo 'LAPTOP-SC' por el usuario 'jacks'.
+26/09/2022 09:41:42	Se inició la importación del esquema de la base de datos.
+26/09/2022 09:41:46	Recopilando credenciales de la base de datos
+26/09/2022 09:41:46	Recopilando opciones de base de datos
+26/09/2022 09:41:46	Recopilando la opción de configuración de ámbito de la base de datos genérica
+26/09/2022 09:41:46	Recopilando usuarios
+26/09/2022 09:41:46	Recopilando roles
+26/09/2022 09:41:46	Recopilando roles de aplicación
+26/09/2022 09:41:46	Recopilando pertenencias a roles
+26/09/2022 09:41:46	Recopilando grupos de archivos
+26/09/2022 09:41:46	Recopilando catálogos de texto completo
+26/09/2022 09:41:46	Recopilando ensamblados
+26/09/2022 09:41:46	Recopilando certificados
+26/09/2022 09:41:46	Recopilando claves asimétricas
+26/09/2022 09:41:46	Recopilando claves simétricas
+26/09/2022 09:41:46	Recopilando claves simétricas cifradas
+26/09/2022 09:41:46	Recopilando esquemas
+26/09/2022 09:41:46	Recopilando colecciones de esquemas XML
+26/09/2022 09:41:46	Recopilando tipos de datos definidos por el usuario
+26/09/2022 09:41:46	Recopilando tipos definidos por el usuario
+26/09/2022 09:41:46	Recopilando tipos de tabla
+26/09/2022 09:41:46	Recopilando claves únicas para tipos de tabla
+26/09/2022 09:41:46	Recopilando claves principales para tipos de tabla
+26/09/2022 09:41:46	Recopilando índices para tipos de tablas
+26/09/2022 09:41:47	Recopilando restricciones CHECK para tipos de tabla
+26/09/2022 09:41:47	Recopilando restricciones DEFAULT para tipos de tabla
+26/09/2022 09:41:47	Recopilando funciones de partición
+26/09/2022 09:41:47	Recopilando esquemas de partición
+26/09/2022 09:41:47	Recopilando funciones
+26/09/2022 09:41:47	Recopilando funciones cifradas
+26/09/2022 09:41:47	Recopilando agregados
+26/09/2022 09:41:47	Recopilando procedimientos
+26/09/2022 09:41:47	Recopilando procedimientos cifrados
+26/09/2022 09:41:47	Recopilando tablas
+26/09/2022 09:41:47	Recopilando claves principales
+26/09/2022 09:41:47	Recopilando restricciones UNIQUE
+26/09/2022 09:41:47	Recopilando claves externas
+26/09/2022 09:41:47	Recopilando restricciones DEFAULT
+26/09/2022 09:41:47	Recopilando restricciones CHECK
+26/09/2022 09:41:47	Recopilando vistas
+26/09/2022 09:41:47	Recopilando vistas cifradas
+26/09/2022 09:41:47	Recopilando índices
+26/09/2022 09:41:47	Recopilando estadísticas
+26/09/2022 09:41:47	Recopilando listas de palabras irrelevantes de índices de texto completo
+26/09/2022 09:41:47	Recopilando listas de propiedades de búsqueda
+26/09/2022 09:41:47	Recopilando propiedades de búsqueda
+26/09/2022 09:41:47	Recopilando índices de texto completo
+26/09/2022 09:41:47	Recopilando índices de almacenamiento de columnas
+26/09/2022 09:41:47	Recopilando índices espaciales
+26/09/2022 09:41:47	Recopilando índices XML
+26/09/2022 09:41:47	Recopilando índices XML selectivos
+26/09/2022 09:41:47	Recopilando desencadenadores cifrados
+26/09/2022 09:41:47	Recopilando desencadenadores
+26/09/2022 09:41:47	Recopilando DDL triggers cifrados y de CLR
+26/09/2022 09:41:47	Recopilando DDL triggers
+26/09/2022 09:41:47	Creación de la restricción perimetral en curso
+26/09/2022 09:41:47	Recopilando sinónimos
+26/09/2022 09:41:47	Recopilando valores predeterminados
+26/09/2022 09:41:47	Recopilando enlaces UDDT de restricción de datos
+26/09/2022 09:41:47	Recopilando reglas
+26/09/2022 09:41:47	Recopilando enlaces UDDT de restricción de datos
+26/09/2022 09:41:47	Recopilando tipos de mensaje
+26/09/2022 09:41:47	Recopilando colas
+26/09/2022 09:41:47	Recopilando contratos
+26/09/2022 09:41:47	Recopilando servicios
+26/09/2022 09:41:47	Recopilando notificaciones de eventos
+26/09/2022 09:41:47	Recopilando enlaces de servicio remoto
+26/09/2022 09:41:47	Recopilando prioridades de Broker
+26/09/2022 09:41:47	Recopilando firmas
+26/09/2022 09:41:47	Recopilando opciones de compresión de datos
+26/09/2022 09:41:47	Recopilando tipos de secuencia
+26/09/2022 09:41:47	Recopilando directivas de seguridad
+26/09/2022 09:41:47	Recopilar claves de cifrado de columna
+26/09/2022 09:41:47	Recopilando claves maestras de columna
+26/09/2022 09:41:47	Recopilando orígenes de datos externos
+26/09/2022 09:41:47	Recopilando formatos de archivo externos
+26/09/2022 09:41:47	Recopilando tablas externas
+26/09/2022 09:41:47	Recopilando propiedades extendidas
+26/09/2022 09:41:47	Recopilando ensamblados
+26/09/2022 09:41:47	Recopilando credenciales
+26/09/2022 09:41:47	Recopilando inicios de sesión
+26/09/2022 09:41:47	Recopilando auditorías de servidor
+26/09/2022 09:41:47	Buscando elementos duplicados en el proyecto
+26/09/2022 09:41:47	Ha finalizado el procesamiento de los elementos duplicados
+26/09/2022 09:41:47	Finalizó la importación de la base de datos.
+26/09/2022 09:41:47	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\BootcampDB\Registros de importación de esquemas\BootcampDB_20220926024142.log
+26/09/2022 09:41:47	Haga clic en Finalizar para continuar...

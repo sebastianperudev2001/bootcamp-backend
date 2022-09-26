@@ -179,6 +179,9 @@
             "projectReferences": {
               "C:\\Users\\jacks\\Documents\\GitHub\\bootcamp-backend\\Bootcamp.Backend\\Bootcamp.Modelo\\Bootcamp.Modelo.csproj": {
                 "projectPath": "C:\\Users\\jacks\\Documents\\GitHub\\bootcamp-backend\\Bootcamp.Backend\\Bootcamp.Modelo\\Bootcamp.Modelo.csproj"
+              },
+              "C:\\Users\\jacks\\Documents\\GitHub\\bootcamp-backend\\Bootcamp.Backend\\Bootcamp.ViewModel\\Bootcamp.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\jacks\\Documents\\GitHub\\bootcamp-backend\\Bootcamp.Backend\\Bootcamp.ViewModel\\Bootcamp.ViewModel.csproj"
               }
             }
           }

@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp.Repositorio", "Boo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp.Modelo", "Bootcamp.Modelo\Bootcamp.Modelo.csproj", "{E09F3E37-2535-4B54-A31C-491F9AA8CB17}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{2902ECF0-9E59-4F30-9BFE-8D7A57708E12}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BootcampDB", "BootcampDB\BootcampDB.sqlproj", "{4084B1AF-9E71-46E8-A7FE-35AE3D451838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,12 @@ Global
 		{E09F3E37-2535-4B54-A31C-491F9AA8CB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E09F3E37-2535-4B54-A31C-491F9AA8CB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E09F3E37-2535-4B54-A31C-491F9AA8CB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4084B1AF-9E71-46E8-A7FE-35AE3D451838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4084B1AF-9E71-46E8-A7FE-35AE3D451838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4084B1AF-9E71-46E8-A7FE-35AE3D451838}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4084B1AF-9E71-46E8-A7FE-35AE3D451838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4084B1AF-9E71-46E8-A7FE-35AE3D451838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4084B1AF-9E71-46E8-A7FE-35AE3D451838}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +65,7 @@ Global
 		{D3AC768F-6574-49D3-BCEB-A945A89A031F} = {DAD6335F-F268-459A-8D51-24200888F8C7}
 		{F58A7F46-9D8A-4FB4-82DF-89B81B1B684D} = {C20FB268-99C5-41AC-BBAD-68221A82412B}
 		{E09F3E37-2535-4B54-A31C-491F9AA8CB17} = {C20FB268-99C5-41AC-BBAD-68221A82412B}
+		{4084B1AF-9E71-46E8-A7FE-35AE3D451838} = {2902ECF0-9E59-4F30-9BFE-8D7A57708E12}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9AA8E9BD-A7EC-43FD-8B13-1A01211E5618}

@@ -220,6 +220,16 @@
         "runtime": {
           "bin/placeholder/Bootcamp.Modelo.dll": {}
         }
+      },
+      "Bootcamp.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Bootcamp.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bootcamp.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -628,11 +638,17 @@
       "type": "project",
       "path": "../Bootcamp.Modelo/Bootcamp.Modelo.csproj",
       "msbuildProject": "../Bootcamp.Modelo/Bootcamp.Modelo.csproj"
+    },
+    "Bootcamp.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../Bootcamp.ViewModel/Bootcamp.ViewModel.csproj",
+      "msbuildProject": "../Bootcamp.ViewModel/Bootcamp.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Bootcamp.Modelo >= 1.0.0",
+      "Bootcamp.ViewModel >= 1.0.0",
       "Dapper >= 2.0.123",
       "Microsoft.Extensions.Configuration.Abstractions >= 6.0.0",
       "System.Data.SqlClient >= 4.8.3"
@@ -676,6 +692,9 @@
           "projectReferences": {
             "C:\\Users\\jacks\\Documents\\GitHub\\bootcamp-backend\\Bootcamp.Backend\\Bootcamp.Modelo\\Bootcamp.Modelo.csproj": {
               "projectPath": "C:\\Users\\jacks\\Documents\\GitHub\\bootcamp-backend\\Bootcamp.Backend\\Bootcamp.Modelo\\Bootcamp.Modelo.csproj"
+            },
+            "C:\\Users\\jacks\\Documents\\GitHub\\bootcamp-backend\\Bootcamp.Backend\\Bootcamp.ViewModel\\Bootcamp.ViewModel.csproj": {
+              "projectPath": "C:\\Users\\jacks\\Documents\\GitHub\\bootcamp-backend\\Bootcamp.Backend\\Bootcamp.ViewModel\\Bootcamp.ViewModel.csproj"
             }
           }
         }

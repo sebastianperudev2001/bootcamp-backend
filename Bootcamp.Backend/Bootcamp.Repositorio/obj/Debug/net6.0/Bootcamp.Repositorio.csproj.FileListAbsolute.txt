@@ -13,3 +13,5 @@ C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repos
 C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\refint\Bootcamp.Repositorio.dll
 C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\Bootcamp.Repositorio.pdb
 C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\obj\Debug\net6.0\ref\Bootcamp.Repositorio.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\bin\Debug\net6.0\Bootcamp.ViewModel.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Repositorio\bin\Debug\net6.0\Bootcamp.ViewModel.pdb
