@@ -14,11 +14,10 @@ namespace WebApplication1.Controllers
 
         public DocumentTypeController(iDocumentTypeQueries documentTypeQueries) 
         {
-            _documentTypeQueries = documentTypeQueries; 
+            _documentTypeQueries = documentTypeQueries ?? throw new ArgumentNullException(nameof(documentTypeQueries));
         }
 
         [HttpGet]
-        [Route("GetAll")]
         public async Task<ActionResult> GetAll() 
         {
             var result = await _documentTypeQueries.GetAll();

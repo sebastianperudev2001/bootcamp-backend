@@ -30,12 +30,9 @@ builder.Services.Configure<ApiBehaviorOptions>(options =>
     options.SuppressModelStateInvalidFilter = true;
 });
 
-//Se ejecutan los queries de Document Type
 builder.Services.AddTransient<iDocumentTypeQueries, DocumentTypeQueries>();
-//Se ejecutan los queries de Person Repository
+builder.Services.AddTransient<iPersonQueries, PersonQueries>();
 builder.Services.AddTransient<iPersonRepository, PersonRepository>();
-//Se ejecutan los queries de Person Queries
-//builder.Services.AddTransient<iPersonQueries, PersonQueries>();
 
 
 

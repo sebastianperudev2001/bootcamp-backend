@@ -28,6 +28,8 @@ namespace Bootcamp.Repositorio
             parameters.Add("@Lastname", person.Lastname);
             parameters.Add("@DocumentTypeId", person.DocumentTypeId);
             parameters.Add("@DocumentNumber", person.DocumentNumber);
+            parameters.Add("@Birthday", person.Birthday);
+
 
             using (var connection = new SqlConnection(_connectionString))
             {
@@ -51,7 +53,7 @@ namespace Bootcamp.Repositorio
             return result;
         }
 
-        
+        /*
         public async Task<IEnumerable<PersonViewModel>> GetAll()
         {
             IEnumerable<PersonViewModel> result = new List<PersonViewModel>();
@@ -63,7 +65,7 @@ namespace Bootcamp.Repositorio
 
             return result;
         }
-        
+        */
         public async Task<int> Update(Person person)
         {
             int result;
@@ -73,6 +75,7 @@ namespace Bootcamp.Repositorio
             parameters.Add("@Lastname", person.Lastname);
             parameters.Add("@DocumentTypeId", person.DocumentTypeId);
             parameters.Add("@DocumentNumber", person.DocumentNumber);
+            parameters.Add("@Birthday", person.Birthday);
 
             using (var connection = new SqlConnection(_connectionString))
             {

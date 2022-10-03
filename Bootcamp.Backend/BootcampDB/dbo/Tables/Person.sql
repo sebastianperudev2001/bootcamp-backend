@@ -4,6 +4,7 @@
     [Lastname]       VARCHAR (50) NULL,
     [DocumentTypeId] INT          NULL,
     [DocumentNumber] VARCHAR (50) NULL,
+    [Birthday]      DATETIME      NULL,
     PRIMARY KEY CLUSTERED ([Id] ASC),
     FOREIGN KEY ([DocumentTypeId]) REFERENCES [dbo].[DocumentType] ([Id])
 );

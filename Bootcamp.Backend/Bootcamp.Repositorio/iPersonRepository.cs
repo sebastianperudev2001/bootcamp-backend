@@ -14,6 +14,5 @@ namespace Bootcamp.Repositorio
         Task<int> Delete(int id);
         Task<int> Update(Person person);
 
-        Task<IEnumerable<PersonViewModel>> GetAll();
     }
 }

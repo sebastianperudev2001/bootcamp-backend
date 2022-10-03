@@ -1,15 +1,19 @@
 ﻿CREATE PROCEDURE [dbo].[Usp_Update_Person]
-@Id int, 
-@Name VARCHAR(50),
-@Lastname VARCHAR(50),
-@DocumentTypeId INT,
-@DocumentNumber VARCHAR(50)
-AS
-BEGIN
+ (@Id INT,
+  @Name VARCHAR(50),
+  @Lastname VARCHAR(50),
+  @DocumentNumber VARCHAR(20),
+  @DocumentTypeId INT,
+  @Birthday DATETIME)
+ AS
+ BEGIN
+
 	UPDATE [dbo].[Person] SET
-	Name = @Name,
-	Lastname = @Lastname,
-	DocumentTypeId = @DocumentTypeId,
-	DocumentNumber = @DocumentNumber
-	WHERE id = @Id
-END
+		Name = @Name,
+		Lastname = @Lastname,
+		DocumentNumber = @DocumentNumber,
+		DocumentTypeId = @DocumentTypeId,
+		Birthday = @Birthday
+	WHERE Id = @Id
+
+ END

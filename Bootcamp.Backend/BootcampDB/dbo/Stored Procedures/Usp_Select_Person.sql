@@ -1,13 +1,15 @@
 ﻿CREATE PROCEDURE [dbo].[Usp_Select_Person]
-AS 
-	BEGIN
-		SELECT
-			p.Id,
-			p.Name,
-			p.Lastname,
-			p. DocumentNumber, 
-			d.Shortname
-		FROM [dbo].[Person] p 
-		JOIN [dbo].[DocumentType] d
-		ON p.DocumentTypeId = d.Id
-END
+ AS
+ BEGIN
+
+	SELECT 
+		P.Id,
+		P.Name,
+		P.Lastname,
+		P.DocumentNumber,
+		DT.ShortName AS DocumentType,
+		Birthday
+	FROM [dbo].[Person] P
+	INNER JOIN [dbo].[DocumentType] DT ON DT.Id = P.DocumentTypeId
+
+ END

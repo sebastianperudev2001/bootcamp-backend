@@ -32,6 +32,20 @@ namespace Bootcamp.Queries.Person
             return result;
 
         }
+        public async Task<PersonByIdViewModel> GetById(int id)
+        {
+            var personByIdViewModel = new PersonByIdViewModel();
+
+            var parameters = new DynamicParameters();
+            parameters.Add("@Id", id);
+
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                personByIdViewModel = await connection.QueryFirstOrDefaultAsync<PersonByIdViewModel>("[dbo].[Usp_Sel_Person_ById]", parameters, commandType: System.Data.CommandType.StoredProcedure);
+            }
+
+            return personByIdViewModel;
+        }
 
     }
 }
