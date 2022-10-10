@@ -1,0 +1,12 @@
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\bin\Release\net6.0\Bootcamp.Modelo.deps.json
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\bin\Release\net6.0\Bootcamp.Modelo.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\bin\Release\net6.0\Bootcamp.Modelo.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\obj\Release\net6.0\Bootcamp.Modelo.csproj.AssemblyReference.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\obj\Release\net6.0\Bootcamp.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\obj\Release\net6.0\Bootcamp.Modelo.AssemblyInfoInputs.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\obj\Release\net6.0\Bootcamp.Modelo.AssemblyInfo.cs
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\obj\Release\net6.0\Bootcamp.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\obj\Release\net6.0\Bootcamp.Modelo.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\obj\Release\net6.0\refint\Bootcamp.Modelo.dll
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\obj\Release\net6.0\Bootcamp.Modelo.pdb
+C:\Users\jacks\Documents\GitHub\bootcamp-backend\Bootcamp.Backend\Bootcamp.Modelo\obj\Release\net6.0\ref\Bootcamp.Modelo.dll
